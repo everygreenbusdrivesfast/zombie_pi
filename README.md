@@ -30,7 +30,7 @@ network={
 
 Please note GB may need changing, depending on where you are in the world, eg US.
 
-## Boot the Pi and ssh in##
+## Boot the Pi and ssh in ##
 
 Once the SD card is ready, we put it in the Raspberry Pi SD card slot and connected the power cable to the micro USB port. 
 
