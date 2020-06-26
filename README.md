@@ -86,7 +86,7 @@ Change directories to the pifm.
 
 ## Get the MP3 Sound Files onto your Pi ##
 
-DOCUMENT SCP FROM PHONE OR LAPTOP TO PI AND PUT OWN WORDING IN
+Using the Raspberry Pi Foundation's [Tutorial](https://www.raspberrypi.org/documentation/remote-access/ssh/scp.md) a file was sent from the phone to email. Then saved onto the laptop from the email, then used SCP to transfer the file to the Raspberry Pi.
 
 Download a few of your favorite mp3 files to the Pi, or you can scp them. We used Voice Recorder from the Google Ap store as we found it to be smoother than the Ubuntu Store alternatives. Make sure to put them in the /home/pi/Music directory.From the command line, type in the following command. The number 88.3 is the frequency the Pi will broadcast at. 
 ```
